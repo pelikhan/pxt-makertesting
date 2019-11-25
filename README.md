@@ -23,7 +23,7 @@ To edit this repository in MakeCode.
 
 This section shows the blocks code from the last commit in master.
 
-![A rendered view of the blocks](https://raw.github.com/pelikhan/pxt-makertesting/blob/master/.makecode/blocks.png)
+![A rendered view of the blocks](https://raw.githubusercontent.com/pelikhan/pxt-makertesting/blob/master/.makecode/blocks.png)
 
 ## Supported targets
 
